@@ -1,0 +1,110 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Optional npm cache directory
+.npm/
+
+# dotenv environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by testing tools
+coverage/
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Build directories and files
+build/
+dist/
+tmp/
+out/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional REPL history
+.node_repl_history
+
+# MacOS and Linux files
+*.swp
+*.swo
+*~
+._*
+.Spotlight-V100
+.Trashes
+
+# npm package locks
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Test result directories
+.nyc_output/
+.jest/
+
+# Ignore OS generated files
+*.bak
+*.backup
+*.orig
+
+# TypeScript build output (if using TypeScript)
+*.tsbuildinfo
+
+# Next.js build output (if using Next.js)
+.next/
+.vercel/
+
+# Parcel cache (if using Parcel)
+.cache/
+
+# Nuxt.js build / generate output (if using Nuxt.js)
+.nuxt/
+dist/
+
+# Svelte build output (if using Svelte)
+.svelte-kit/
+
+# PM2 logs and dumps (if using PM2 for process management)
+.pm2/logs/
+.pm2/dumps/
+
+# Miscellaneous files
+*.log
+*.lock
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig

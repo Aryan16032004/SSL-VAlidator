@@ -1,7 +1,7 @@
-import forge from 'node-forge'
+// import forge from 'node-forge'
 import https from 'https'
-import axios from "axios"
-import tls from "tls"
+// import axios from "axios"
+// import tls from "tls"
 
 const getCertificateDetails = (domain) => {
     return new Promise((resolve, reject) => {
